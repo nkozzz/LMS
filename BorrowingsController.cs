@@ -25,21 +25,21 @@
         [HttpPost]
         public IActionResult CreateBorrowing([FromBody] object borrowing) //Tells the program to take the JSON and map it into this parameter, so we can easily access it in the function
         {
-            return Ok(new { message = "Borrowing created successfully" });
+            return Ok("Borrowing created successfully" );
         }
 
         // PUT: /borrowings/5
         [HttpPut("{id}")]
         public IActionResult UpdateBorrowing(int id, [FromBody] object borrowing)
         {
-            return Ok(new { message = $"Borrowing with ID {id} updated" });
+            return Ok($"Borrowing with ID {id} updated");
         }
 
         // DELETE: /borrowings/5
         [HttpDelete("{id}")]
         public IActionResult DeleteBorrowing(int id)
         {
-            return Ok(new { message = $"Borrowing with ID {id} deleted" });
+            return Ok($"Borrowing with ID {id} deleted");
         }
     }
 }

@@ -33,3 +33,4 @@ C:\Users\cassy\OneDrive\Bow Valley\Term 2\ASP.NET\LMS\bin\Debug\net8.0\Swashbuck
 C:\Users\cassy\OneDrive\Bow Valley\Term 2\ASP.NET\LMS\obj\Debug\net8.0\LMS.csproj.AssemblyReference.cache
 C:\Users\cassy\OneDrive\Bow Valley\Term 2\ASP.NET\LMS\obj\Debug\net8.0\LMS.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\cassy\OneDrive\Bow Valley\Term 2\ASP.NET\LMS\obj\Debug\net8.0\LMS.csproj.Up2Date
+C:\Users\cassy\OneDrive\Bow Valley\Term 2\ASP.NET\LMS\obj\Debug\net8.0\LMS.sourcelink.json

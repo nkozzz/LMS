@@ -231,6 +231,18 @@
         }
       }
     },
+    "/": {
+      "get": {
+        "tags": [
+          "Home"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/Readers": {
       "get": {
         "tags": [
@@ -352,6 +364,9 @@
     },
     {
       "name": "Borrowings"
+    },
+    {
+      "name": "Home"
     },
     {
       "name": "Readers"

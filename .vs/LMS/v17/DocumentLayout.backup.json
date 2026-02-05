@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:readerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:borrowingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|c:\\users\\cassy\\onedrive\\bow valley\\term 2\\asp.net\\lms\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{78D991E1-5F12-4582-916F-F6EEBA72C083}|LMS.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +42,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-05T16:38:37.622Z",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T21:26:42.731Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\HomeController.cs",
+              "RelativeDocumentMoniker": "HomeController.cs",
+              "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\HomeController.cs",
+              "RelativeToolTip": "HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T21:26:03.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BorrowingsController.cs",
               "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\BorrowingsController.cs",
               "RelativeDocumentMoniker": "BorrowingsController.cs",
               "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\BorrowingsController.cs",
               "RelativeToolTip": "BorrowingsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACgAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T16:49:20.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T16:38:37.622Z",
               "EditorCaption": ""
             },
             {
@@ -66,20 +100,20 @@
               "RelativeDocumentMoniker": "ReadersController.cs",
               "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\ReadersController.cs",
               "RelativeToolTip": "ReadersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T16:48:39.515Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BooksController.cs",
               "DocumentMoniker": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\BooksController.cs",
               "RelativeDocumentMoniker": "BooksController.cs",
               "ToolTip": "C:\\Users\\cassy\\OneDrive\\Bow Valley\\Term 2\\ASP.NET\\LMS\\BooksController.cs",
               "RelativeToolTip": "BooksController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-05T16:44:06.215Z",
               "EditorCaption": ""

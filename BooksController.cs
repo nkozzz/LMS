@@ -11,35 +11,35 @@
         [HttpGet]
         public IActionResult GetAllBooks()
         {
-            return Ok(new { message = "Returning all books" });
+            return Ok("Returning all books" );
         }
 
         // GET: /books/5
         [HttpGet("{id}")]
         public IActionResult GetBookById(int id)
         {
-            return Ok(new { message = $"Returning book with ID {id}" });
+            return Ok($"Returning book with ID {id}");
         }
 
         // POST: /books
         [HttpPost]
         public IActionResult CreateBook([FromBody] object book)
         {
-            return Ok(new { message = "Book created successfully" });
+            return Ok("Book created successfully");
         }
 
         // PUT: /books/5
         [HttpPut("{id}")]
         public IActionResult UpdateBook(int id, [FromBody] object book)
         {
-            return Ok(new { message = $"Book with ID {id} updated" });
+            return Ok($"Book with ID {id} updated" );
         }
 
         // DELETE: /books/5
         [HttpDelete("{id}")]
         public IActionResult DeleteBook(int id)
         {
-            return Ok(new { message = $"Book with ID {id} deleted" });
+            return Ok($"Book with ID {id} deleted" );
         }
     }
 }
