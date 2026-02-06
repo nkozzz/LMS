@@ -1,4 +1,4 @@
-﻿namespace LMS
+﻿namespace LMS.Controllers
 {
     using Microsoft.AspNetCore.Mvc;
 

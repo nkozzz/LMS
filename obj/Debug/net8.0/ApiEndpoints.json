@@ -1,6 +1,6 @@
 [
   {
-    "ContainingType": "LMS.HomeController",
+    "ContainingType": "LMS.Controllers.HomeController",
     "Method": "Index",
     "RelativePath": "",
     "HttpMethod": "GET",
@@ -10,7 +10,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BooksController",
+    "ContainingType": "LMS.Controllers.BooksController",
     "Method": "GetAllBooks",
     "RelativePath": "Books",
     "HttpMethod": "GET",
@@ -20,7 +20,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BooksController",
+    "ContainingType": "LMS.Controllers.BooksController",
     "Method": "CreateBook",
     "RelativePath": "Books",
     "HttpMethod": "POST",
@@ -36,7 +36,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BooksController",
+    "ContainingType": "LMS.Controllers.BooksController",
     "Method": "GetBookById",
     "RelativePath": "Books/{id}",
     "HttpMethod": "GET",
@@ -52,7 +52,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BooksController",
+    "ContainingType": "LMS.Controllers.BooksController",
     "Method": "UpdateBook",
     "RelativePath": "Books/{id}",
     "HttpMethod": "PUT",
@@ -73,7 +73,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BooksController",
+    "ContainingType": "LMS.Controllers.BooksController",
     "Method": "DeleteBook",
     "RelativePath": "Books/{id}",
     "HttpMethod": "DELETE",
@@ -89,7 +89,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BorrowingsController",
+    "ContainingType": "LMS.Controllers.BorrowingsController",
     "Method": "GetAllBorrowings",
     "RelativePath": "Borrowings",
     "HttpMethod": "GET",
@@ -99,7 +99,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BorrowingsController",
+    "ContainingType": "LMS.Controllers.BorrowingsController",
     "Method": "CreateBorrowing",
     "RelativePath": "Borrowings",
     "HttpMethod": "POST",
@@ -115,7 +115,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BorrowingsController",
+    "ContainingType": "LMS.Controllers.BorrowingsController",
     "Method": "GetBorrowingById",
     "RelativePath": "Borrowings/{id}",
     "HttpMethod": "GET",
@@ -131,7 +131,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BorrowingsController",
+    "ContainingType": "LMS.Controllers.BorrowingsController",
     "Method": "UpdateBorrowing",
     "RelativePath": "Borrowings/{id}",
     "HttpMethod": "PUT",
@@ -152,7 +152,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.BorrowingsController",
+    "ContainingType": "LMS.Controllers.BorrowingsController",
     "Method": "DeleteBorrowing",
     "RelativePath": "Borrowings/{id}",
     "HttpMethod": "DELETE",
@@ -168,7 +168,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.ReadersController",
+    "ContainingType": "LMS.Controllers.ReadersController",
     "Method": "GetAllReaders",
     "RelativePath": "Readers",
     "HttpMethod": "GET",
@@ -178,7 +178,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.ReadersController",
+    "ContainingType": "LMS.Controllers.ReadersController",
     "Method": "CreateReader",
     "RelativePath": "Readers",
     "HttpMethod": "POST",
@@ -194,7 +194,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.ReadersController",
+    "ContainingType": "LMS.Controllers.ReadersController",
     "Method": "GetReaderById",
     "RelativePath": "Readers/{id}",
     "HttpMethod": "GET",
@@ -210,7 +210,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.ReadersController",
+    "ContainingType": "LMS.Controllers.ReadersController",
     "Method": "UpdateReader",
     "RelativePath": "Readers/{id}",
     "HttpMethod": "PUT",
@@ -231,7 +231,7 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "LMS.ReadersController",
+    "ContainingType": "LMS.Controllers.ReadersController",
     "Method": "DeleteReader",
     "RelativePath": "Readers/{id}",
     "HttpMethod": "DELETE",
